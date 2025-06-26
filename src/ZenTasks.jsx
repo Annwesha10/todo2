@@ -120,7 +120,7 @@ const ZenTasks = ({ darkMode, setPage }) => {
             className="zentask-input"
           />
           <button onClick={addTask} className="zentask-add-btn">
-            Add
+            +
           </button>
         </div>
 
